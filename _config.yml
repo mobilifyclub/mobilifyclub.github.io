@@ -15,9 +15,9 @@ highlighter: pygments
 
 
 ### content configuration ###
-title:       "SinglePaged - Title: Edit me in _config.yml!"
+title:       "Mobilify's Hackathon Club"
 keywords:    "SinglePaged, jekyll, template, github, blog, single page"
-description: "A single-page template for Jekyll based blogs (like what you'd use on github pages!)"
+description: "A site to show off the Hackers"
 source_link: "https://github.com/t413/SinglePaged"
 favicon:     #put a path like: "img/favicon.ico"
 touch_icon:  #put a path like: "img/apple-touch-icon.png"
@@ -32,5 +32,4 @@ colors:
   green:     '#9bcf2f'
   purple:    '#c869bf'
   orange:    '#fab125'
-  turquoise: '#0fbfcf'
-  
+  turquoise: '#0fbfcf' 
