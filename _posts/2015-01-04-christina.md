@@ -10,6 +10,11 @@ style: center
   <img src="/img/shan-christina.jpg"></img>
 </div>
 
-description of Christina
+## Contact
 
+If you would like to get in touch with me please connect with me on [GitHub][2], [Twitter][3] or [LinkedIn][4].
 
+[1]: http://matthewclark.ca/
+[2]: https://github.com/mshan3
+[3]: https://twitter.com/chrstnsh
+[4]: https://ca.linkedin.com/in/cshan
